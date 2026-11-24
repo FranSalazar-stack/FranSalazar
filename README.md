@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/DFP6lk8LWK.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Coding Banner" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZndkcGE5bzBlcGp0Y3YxbjVpcTlhdjlnYjJ6MzA1YWhpcXl4eWZ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Coding Banner" />
 
   <h1>¡Hola, Bienvenido a mi portafolio 👋</h1>
   <h3>Desarrollador Full-Stack</h3>
