@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/es-419/view/concac-gif-399491743966962616" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Coding Banner" />
+  <img src="https://tenor.com/DFP6lk8LWK.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Coding Banner" />
 
   <h1>¡Hola, Bienvenido a mi portafolio 👋</h1>
   <h3>Desarrollador Full-Stack</h3>
