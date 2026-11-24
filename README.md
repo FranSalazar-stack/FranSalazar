@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZndkcGE5bzBlcGp0Y3YxbjVpcTlhdjlnYjJ6MzA1YWhpcXl4eWZ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Coding Banner" />
 
-  <h1>¡Hola, Bienvenido a mi portafolio 👋</h1>
+  <h1>¡Hola, Bienvenido a mi portafolio! 👋</h1>
   <h3>Desarrollador Full-Stack</h3>
   <p>
-    Construyo aplicaciones completas de extremo a extremo: desde arquitecturas backend robustas y bases de datos eficientes hasta interfaces dinámicas y bien cuidadas. Conecto la lógica del servidor con experiencias de usuario fluidas para convertir ideas en productos funcionales.
+    Fran Salazar por acá. Construyo aplicaciones completas de extremo a extremo: desde arquitecturas backend y bases de datos eficientes hasta interfaces dinámicas y bien cuidadas. Cada día aprendiendo a usar algo nuevo.
   </p>
   <p>
-    <sub><i>(Nota: Este es un portafolio provisional; la versión completa con proyectos detallados está actualmente en revisión.)</i></sub>
+    <sub><i>(Nota: Este es un portafolio provisional; la versión completa y detallada está actualmente en revisión 🔧)</i></sub>
   </p>
 </div>
 
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Desarrollo interfaces y sistemas de alta escalabilidad, con especial atención en experiencias visuales agradables, intuitivas y con buena arquitectura detrás. Trabajo en crear productos que unan un backend sólido con un frontend claro, funcional y preparado para crecer. **Mientras más divertido es el producto, mejor.**
+Apunto a desarrollar interfaces y sistemas de alta escalabilidad, con especial atención en experiencias visuales agradables, intuitivas y con buena arquitectura detrás. Trabajo en crear productos que unan un backend sólido con un frontend claro, funcional y preparado para crecer. **Mientras más divertido es el producto, mejor.**
 
 🌐 **Idiomas de trabajo:** Español / Inglés
 
